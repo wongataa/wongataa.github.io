@@ -42,7 +42,7 @@ Kickstart your CSS
 Dynamically change what's being displayed before it's rendered in the first place
 
 ### jQuery
-aking JS easier since 2006
+Making JS easier since 2006
 
 ### Sass
 Awesome stylesheets
